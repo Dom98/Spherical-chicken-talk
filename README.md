@@ -5,4 +5,4 @@ Below home-made Chicken <---> Sphere transformation using Wolfram Mathematica
 
 ![Alt Text](https://github.com/Dom98/Spherical-chicken-talk/blob/main/chicken.gif)
 
-Based on idea from S. Blundell's "Concepts in thermal physics". 
+Based on the idea from S. Blundell's "Concepts in thermal physics". 
